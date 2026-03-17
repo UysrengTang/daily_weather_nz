@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+# testing comment
 """
 Fetches daily weather data for major New Zealand cities from the Open-Meteo API
 and saves a cleaned dataset to CSV.
